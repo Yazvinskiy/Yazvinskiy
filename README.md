@@ -7,7 +7,7 @@ I am a web developer
 *   🌍  I'm based in Poland
 *   ✉️  You can contact me at [yazvinskiy94@gmail.com](mailto:yazvinskiy94@gmail.com)
 
-![test](https://user-images.githubusercontent.com/110602440/219611802-07936252-4a0a-4fa0-8ed6-7e10e39dba23.png)
+
 <img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/110602440/219611802-07936252-4a0a-4fa0-8ed6-7e10e39dba23.png)" width="48">
 ![image](https://user-images.githubusercontent.com/110602440/219611860-dff5cc23-9393-4771-b789-10f330db6948.png)
 ![image](https://user-images.githubusercontent.com/110602440/219611877-5feffaa3-c5b9-4106-a0c6-b2d4d18edfdd.png)
