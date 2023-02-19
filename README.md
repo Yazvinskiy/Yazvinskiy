@@ -7,15 +7,11 @@
 ### <div align="center">I'm Vladimir, a web developer 👨‍💻 </div>  
   
 
-- 🔭I'm originally from Belarus but I  live in Poland.  
-  
 
-- 🌱 I keep improving my programming skills  
+- 🌱 I'm originally from Belarus but I  live in Poland. 
+- 
+- ⚡ I keep improving my programming skills  
   
-
-- ⚡ A little bit about my hobies  
-  
-
 - ❓ Ask me about anything [my e-maill](yazvinskiy94@gmail.com)  
   
 
