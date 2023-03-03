@@ -8,7 +8,7 @@
   
 - ⚡ I keep improving my programming skills  
   
-- ❓ Ask me about anything [my e-maill](https://mail.google.com/mail/u/yazvinskiy94@gmail.com/#compose ) [facebook](https://www.facebook.com/vladimir.yazvinskiy/)
+- ❓ Connect with me  [my e-maill](https://mail.google.com/mail/u/yazvinskiy94@gmail.com/#compose ) [facebook](https://www.facebook.com/vladimir.yazvinskiy/)
   
 
 <br/>  
@@ -24,17 +24,6 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
-
-
-
-<br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yazvinskiy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
