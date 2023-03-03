@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-### <div align="center">I'm Vladimir, a web developer 👨‍💻 </div>  
+  <div align="center">I'm Vladimir, a web developer 👨‍💻 </div>  
   
 - 🌱 I'm originally from Belarus but I  live in Poland. 
   
