@@ -30,5 +30,10 @@
 
 <br/>  
 
+## Codewars Stats  
+<div align="center"> [![codewars](https://www.codewars.com/users/CodewarsVY/badges/large)](https://www.codewars.com/users/CodewarsVY) </div>  
+
+<br/>  
+
 
 
