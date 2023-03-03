@@ -8,7 +8,7 @@
   
 - ⚡ I keep improving my programming skills  
   
-- ❓ Ask me about anything [my e-maill](https://mail.google.com/mail/u/yazvinskiy94@gmail.com/#compose )  
+- ❓ Ask me about anything [my e-maill](https://mail.google.com/mail/u/yazvinskiy94@gmail.com/#compose ) [facebook](https://www.facebook.com/vladimir.yazvinskiy/)
   
 
 <br/>  
