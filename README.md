@@ -4,7 +4,7 @@
 </div>  
   <div align="center">I'm Vladimir, a web developer 👨‍💻 </div>  
   
-- 🌱 I'm originally from Belarus but I  live in Poland. 
+- 🌱 I'm originally from Belarus but now I  live in Poland. 
   
 - ⚡ I keep improving my programming skills  
   
