@@ -28,7 +28,7 @@
 </div>
 
 ## My certificates
-![CopyOf](https://github.com/Yazvinskiy/movies-explorer-frontend/blob/main/diploma.nomoredomains.rocks_movies.png](https://github.com/Yazvinskiy/Yazvinskiy/blob/main/screen%201.png)
+![CopyOf](https://github.com/Yazvinskiy/Yazvinskiy/blob/main/screen%201.png)
 
 
 ## Github Stats  
