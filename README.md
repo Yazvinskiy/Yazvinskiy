@@ -27,6 +27,10 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>
 
+## My certificates
+![CopyOf](https://github.com/Yazvinskiy/movies-explorer-frontend/blob/main/diploma.nomoredomains.rocks_movies.png](https://github.com/Yazvinskiy/Yazvinskiy/blob/main/screen%201.png)
+
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yazvinskiy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
